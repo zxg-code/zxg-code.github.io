@@ -1,10 +1,10 @@
 # Site settings
 title: Zxg's Blog
-SEOTitle: 赵喜刚的博客 | Zxg's Blog
+SEOTitle: Zxg's Blog | Welcome
 header-img: img/home-bg.jpg
 email: zsgjmail@126.com
 description: "ceeeeeeeeeeeeb"
-keyword: "赵喜刚, zxg"
+keyword: "zhaoxg, zxg"
 url: "https://zxg-code.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: zxg-blog
+disqus_username: zhaoxg
 
 # Netease settings
 netease_comment: false
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: "G-HKC01MM10W" # Format: UA-xxxxxx-xx
+ga_domain: zhaoxg.top
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
