@@ -1,6 +1,8 @@
 My blog, modified from [Hux Blog](https://huangxuan.me)
 ================================
 
+> 本地测试：bundle exec jekyll serve
+
 > I never expect this becomes popular.
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
